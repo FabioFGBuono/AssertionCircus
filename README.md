@@ -5,7 +5,7 @@
 [![Probabilistic Stability](https://img.shields.io/badge/probability-unstable-purple)](ca://s?q=probabilistic_stability)
 
 
-***"Specifica formale per chi non ha tempo e fenomeni nascosti di compilazione,***
+***"Specifica formale per chi non ha tempo e fenomeni nascosti di compilazione***
 
 Lo sapevate che le assert hanno effetti collaterali anche quando spariscono? Probabilmente no, questo e altro vi attende, **_"venghino signori venghino"_** il circo delle asserzioni fantastiche vi attende.
 
